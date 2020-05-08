@@ -1,0 +1,45 @@
+Name: Coley Gaynor
+Date: 8 May 2020
+
+Project: Mr Solo Dolo
+Group's repository: Banane42
+
+
+
+What is something you learned by reviewing this group's project?
+A game can be made in one script.
+ 
+
+In what ways does this game reflect the theme?
+I guess it can relate by having the economy falling apart.
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+A money system that can be used to purchase things.
+ 
+
+What suggestions would you have for this group to improve the game?
+Instructions.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+Nothing that I saw.
+ 
+
+Is it clear that every group member participated?
+No, I did not see any explanation of who did what in the readme or code.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes, with a MIT License and a name change.
+
+What is something the group could add to the README.md to make it more descriptive?
+How it relates to corona. Also that clicking the print money button is not the goal.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+Interesting concept, you need to be very proficent with the mouse.
+
+
+How many of your points would you allocate to this project?
+1
+
